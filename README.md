@@ -1,4 +1,4 @@
-# 🌌 Projeto de Caça Asteroides
+# 🌌 Projeto Caça Asteroides MCTI
 
 Este repositório contém ferramentas e instruções para participar do programa de Caça Asteroides, incluindo:
 - Uma planilha personalizada para organização e análise dos dados dos asteroides. 
