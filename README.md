@@ -29,7 +29,7 @@ Nela, você pode:
 3. **Acompanhar facilmente os pacotes analisados e pendentes.**
 
 ### Como usar:
-1. Abra o arquivo `Planilha Caça-asteroides - MCTI.xlsx`.
+1. Abra o arquivo `Planilha Caça-asteroides - MCTI.xlsx` no Google Sheets.
 2. Preencha os campos conforme realiza a análise das imagens no **Astrometrica**.
 3. Utilize as abas específicas para organizar os dados por conjunto de imagens e quadrantes.
 
@@ -50,7 +50,7 @@ O **Astrometrica** é um programa especializado para análise de pacotes de imag
 ## 🔧 Como Instalar o Astrometrica
 
 1. Baixe o instalador `astrometrica-setup-v1.4.exe` disponível neste repositório.
-2. Siga as instruções detalhadas no arquivo `Parte 1 - Como instalar o Astrometrica.pdf`.
+2. Siga as instruções detalhadas do [tutorial](https://www.youtube.com/watch?v=EXvLYflwrCA).
 
 ### Link oficial do programa:
 [Acesse o site do Astrometrica](http://iasc.cosmosearch.org/)
@@ -69,9 +69,10 @@ O processo de análise é realizado no **Astrometrica** com pacotes de imagens f
 5. Gere o relatório diretamente no programa.
 
 ### Exemplo de Identificação:
-![Exemplo de Salto](./path_to_example_asteroid_image.png)
 
-Para mais detalhes, consulte o arquivo `Parte 2 - Aprendendo a usar o Astrometrica.pdf`.
+<div align="center">
+    <img src="https://github.com/dsilvaphy/Caca-Asteroides-MCTI/blob/main/exemploasteroide.png" width="400" height="400">
+ </div>
 
 ---
 
@@ -82,7 +83,7 @@ Após a análise, é necessário enviar os relatórios para o sistema do IASC.
 1. **Copie o relatório gerado pelo Astrometrica.**
 2. Acesse o [sistema do IASC](http://iasc.cosmosearch.org/).
 3. Faça o login com as credenciais fornecidas pela sua equipe.
-4. Envie o relatório no campo apropriado, conforme detalhado no guia `Parte 3 - Envio dos relatórios.pdf`.
+4. Envie o relatório no campo apropriado, conforme detalhado no guia.
 
 ---
 
@@ -91,12 +92,7 @@ Após a análise, é necessário enviar os relatórios para o sistema do IASC.
 - **`Planilha Caça-asteroides - MCTI.xlsx`**: Planilha personalizada para organização dos dados.
 - **`ps2-NewPractice_3`**: Pacote de imagens para treino no Astrometrica.
 - **`astrometrica-setup-v1.4.exe`**: Instalador do programa Astrometrica.
-- Guias em PDF:
-  - `Parte 1 - Como instalar o Astrometrica.pdf`
-  - `Parte 2 - Aprendendo a usar o Astrometrica.pdf`
-  - `Parte 3 - Envio dos relatórios.pdf`
-- Exemplos:
-  - Imagens de análise e quadrantes para referência.
+- **`Quick Start Guide`**: Guia do Astrometrica.
 
 ---
 
@@ -108,12 +104,7 @@ Após a análise, é necessário enviar os relatórios para o sistema do IASC.
 
 ---
 
-## 🛠️ Suporte
-
-Caso encontre dificuldades, entre em contato com:
-- **E-mail:** meninasnacienciaUFSC@gmail.com
-- **WhatsApp:** [Link para o grupo](https://chat.whatsapp.com/H6EvLSODkqbJqE7FiHtBeM)
-- **Tutoriais:** [Vídeos de treinamento](bit.ly/3FtUGiT)
+- **Tutoriais:** [Vídeos de treinamento](https://www.youtube.com/watch?v=EXvLYflwrCA)
 
 ---
 
